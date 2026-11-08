@@ -1,0 +1,1 @@
+Successfully completed the Cisco Certified Network Associate (CCNA) training course from CSL Training, covering Networking Fundamentals, IP Addressing, Routing & Switching, VLANs, WAN Technologies, and Network Troubleshooting.
